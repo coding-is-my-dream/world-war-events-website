@@ -1,11 +1,13 @@
 # Major Events of World War I (1914-1919)
 
 This is a structured and educational timeline of the major events of WWI
-
 ## 🌐 Live Link
- Check out the website here: **[nazimkalimshaikh.netlify.app](https://netlify.app)** (production deploys are paused as I've used up  all of my monthly credits on Netlify)
+ Check out the website here: **[nazimkalimshaikh.netlify.app](https://netlify.app)**
  
  Github page: **[https://nazimkalimshaikh.github.io/world-war-events-website/](https://github.io)**
+
+## Note
+production deploys/updates on my website are paused as I've used up all credits on Netlify, view the github page for a better version
 
 ## 🛠️ Built With
 - HTML on codepen.io
