@@ -3,7 +3,7 @@
 This is a structured and educational timeline of the major events of WWI
 
 ## 🌐 Live Link
-[Check out the website here:](https://nazimkalimshaikh.netlify.app)
+ Check out the website here: **[nazimkalimshaikh.netlify.app](https://netlify.app)**
 
 ## 🛠️ Built With
 - HTML on codepen.io
