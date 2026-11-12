@@ -13,4 +13,4 @@ This is a structured and educational timeline of the major events of WWI
 ## 📖 Credits
 - Data from: [theworldwar.org](https://theworldwar.org)
 - HTML learned on [freecodecamp.org](https://freecodecamp.org)
-- Created by: **Nazim Kalim Shaikh**, a 13 year old learning web development, this is my first website made in ~3 hours!
+- Created by me: **Nazim Kalim Shaikh**, a 13 year old learning web development, this is my first website made in ~3 hours!
