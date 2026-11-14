@@ -9,10 +9,11 @@ production deploys/updates on my website are paused as I've used up all credits 
 **[Github page: nazimkalimshaikh.github.io/world-war-events-website/](https://nazimkalimshaikh.github.io/world-war-events-website/)**
 ## 🛠️ Built With
 - HTML on codepen.io
-- Deployed using netlify.com
-- Continuous deployment via github.com
+- Deployed using Netlify
+- Continuous deployment via Github
+- debugging by Github docs and Stack overflow
 
 ## 📖 Credits
-- Data from: [theworldwar.org](https://theworldwar.org)
-- HTML learned on [freecodecamp.org](https://freecodecamp.org)
+- Data from: [TheWorldWar](https://theworldwar.org)
+- HTML learned on [FreeCodeCamp](https://freecodecamp.org)
 - Created by me: **Nazim Kalim Shaikh**, a 13 year old learning web development, this is my first website made in ~3 hours!
